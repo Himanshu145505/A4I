@@ -1,4 +1,4 @@
-🌟 MediGen: AI-Driven Regenerative Healthcare 🌟
+# MediGen: AI-Driven Regenerative Healthcare 🫀
 
 MediGen is an AI-powered platform transforming healthcare with:
 🧬 Personalized Health Recommendations: Tailored treatment plans based on patient data.
