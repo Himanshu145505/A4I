@@ -1,8 +1,0 @@
-# Ignore Firebase credentials
-firebase-key.json
-
-# Ignore node_modules directory
-node_modules/
-
-# Ignore environment variables file
-.env
