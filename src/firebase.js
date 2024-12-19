@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA0-lDIwPsXjmr_PpszECRAQuT9PS_YADE",
+  apiKey: "AIzaSyA0-lDIePsXjmr_PpszECRAQuT9PS_YADE", //This is an invalid key for example only replace it with yours
   authDomain: "deadpool-4a782.firebaseapp.com",
   projectId: "deadpool-4a782",
   storageBucket: "deadpool-4a782.firebasestorage.app",
