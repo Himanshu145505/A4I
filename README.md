@@ -114,3 +114,9 @@ cd MediGen
 - Enhance AI capabilities with real-time medical imaging analysis.
 
 ---
+
+Working Project Video Link : https://drive.google.com/drive/folders/1Pe5InUc1qHA_Fvi7w0NyIvb4_bPrhuBc?usp=sharing
+Note : More Advancements to be done in the realistic 3D Model Generation. 
+
+Contributors 🤝 are welcome! Please open an issue or submit a pull request.
+
