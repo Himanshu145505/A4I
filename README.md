@@ -1,3 +1,8 @@
+MediGen: AI-Driven Regenerative Healthcare
+
+MediGen is an AI-powered platform offering personalized health recommendations and 3D bioprinting simulations to revolutionize regenerative medicine. By analyzing patient data, MediGen generates custom treatment plans, simulates tissue and organ regeneration, and provides actionable health insights. This solution addresses organ shortages, enhances precision healthcare, and integrates cutting-edge AI with bioprinting for scalable and accessible medical innovation.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
