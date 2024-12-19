@@ -115,7 +115,10 @@ cd MediGen
 
 ---
 
-Working Project Video Link : https://drive.google.com/drive/folders/1Pe5InUc1qHA_Fvi7w0NyIvb4_bPrhuBc?usp=sharing
+Working Project Video Link : https://drive.google.com/file/d/1Sx8Yv9dvalBmSp4ibiNjdeqCxd8FFMla/view?usp=drive_link
+
+---
+
 Note : More Advancements to be done in the realistic 3D Model Generation. 
 
 Contributors 🤝 are welcome! Please open an issue or submit a pull request.
